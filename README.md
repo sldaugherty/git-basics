@@ -1,4 +1,4 @@
-Github Basics
+## Github Basics
 
 Testing out GitHub
 
